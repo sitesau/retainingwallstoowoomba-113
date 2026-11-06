@@ -1,0 +1,22 @@
+{
+  "wheel_id": 787,
+  "structure": "umbrella",
+  "slug": "retainingwallstoowoomba-113",
+  "project": "retaining-wall-builders-toowoomba-timeline-c68acf92916ca34271f2",
+  "parent_t1_ref": "retainingwallstoowoomba-156",
+  "node_role": "feeder",
+  "money_target": "retainingwallstoowoomba.com.au",
+  "primary_kw": "retaining wall builders toowoomba timeline",
+  "intended_url": "http://retaining-wall-builders-toowoomba-timeline-c68acf92916ca34271f2.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "401e4530f9ab54ec",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/retainingwallstoowoomba-156/",
+      "anchor": "the related resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
